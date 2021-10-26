@@ -10,7 +10,10 @@ Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 https://github.com/sultanbst123/MachineHack_Genre-Music-Classification/blob/main/Genre%20music%20classification.ipynb
 
 ## Data modelling with Python
-Nanti!!!
+melakukan model selection & cross_validation.
+
+Untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
+https://github.com/sultanbst123/MachineHack_Genre-Music-Classification/blob/main/Music_Genre_Classification.ipynb
 
 ## Dataset & Informasi 
 https://machinehack.com/hackathons/music_genre_classification_weekend_hackathon_edition_2_the_last_hacker_standing/overview
